@@ -10,7 +10,6 @@
 #Hide your first two sentences using "===="
 
 #Example
-
 #====
 #There was a door at the end of the street that had never been there before.
 #Marla was certain that if she went through the door, she would have a difficult time getting home.
