@@ -4,7 +4,7 @@
 #started 11 March 2026
 
 ##Instructions: 
-#We are writing a collaborative story
+#We are writing a collaborative story!
 #each person writes three sentences, continuing from the previous person's last sentence
 #Use hashtags to indicate that you are writing text, not code
 #Hide your first two sentences using "===="
