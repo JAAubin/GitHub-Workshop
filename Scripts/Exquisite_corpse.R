@@ -18,3 +18,9 @@
 #One afternoon, overcome with curiosity, Marla stepped through the mysterious door.
 
 #====
+#The room inside was dimly lit with UV lights.
+#Marla found this made her eyes sting, it was very uncomfortable.
+
+#====
+#
+#Marla shrieked in discomfort, ran out of the room slamming the door behind her, and exited the building to stare into the sun.
