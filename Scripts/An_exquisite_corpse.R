@@ -20,6 +20,8 @@
 #The door shivered once she shut it, as a chickadee would after a branch-bending wind. 
 
 #Madison
+#She stopped in her tracks when she smelled something weird down the hall
+
 #Maria Paula
 #Natalie E
 #Nelsy
