@@ -23,6 +23,8 @@
 #She stopped in her tracks when she smelled something weird down the hall
 
 #Maria Paula
+#She approached it hesitantly, as it grew bigger and the smell filled the room
+
 #Natalie E
 #Nelsy
 #Sarah
