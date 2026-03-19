@@ -6,7 +6,11 @@
 ##Instructions: 
 #We are writing a collaborative story!
 #Open a word document
-#each person writes three sentences, continuing from the previous person's last sentence
-#Only paste your last sentence into this script
+#Pull the latest version of the script.
+#Read the previous person's last line in this script.
+#In your word doc, write three sentences to continue the story.
+#Paste your last sentence into this script
+#Save your edits locally
+#Commit and push your edits.
 
 #Jaclyn
