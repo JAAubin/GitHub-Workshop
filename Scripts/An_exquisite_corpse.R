@@ -31,3 +31,4 @@
 #She still had faith in her friend, Susannah
 
 #Sarah
+#After searching for the smell, and finding nothing, they attacked…
