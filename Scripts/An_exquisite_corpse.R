@@ -17,6 +17,8 @@
 #One afternoon, overcome with curiosity, Marla walked through the strange door.
 
 #Jeff
+#The door shivered once she shut it, as a chickadee would after a branch-bending wind. 
+
 #Madison
 #Maria Paula
 #Natalie E
