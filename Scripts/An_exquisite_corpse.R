@@ -14,3 +14,11 @@
 #Commit and push your edits.
 
 #Jaclyn
+#One afternoon, overcome with curiosity, Marla walked through the strange door.
+
+#Jeff
+#Madison
+#Maria Paula
+#Natalie E
+#Nelsy
+#Sarah
